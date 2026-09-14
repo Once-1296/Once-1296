@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Awwab Wadekar 👋</h1>
-<h3 align="center">Competitive Programmer | CS Engineering Student @ VJTI | Systems & AI Builder</h3>
+<h3 align="center">Competitive Programmer | Information Technology Student @ VJTI | Systems & AI Builder</h3>
 
 <p align="center">
-  🎓 2nd Year B.Tech (Computer Engineering) @ VJTI Matunga — CGPA 9.49 <br/>
-  🏆 LeetCode Guardian (Peak 2259) · Codeforces Expert (Peak 1772) · ICPC 2026 Regionalist <br/>
+  🎓 3rd Year B.Tech (Computer Engineering) @ VJTI Matunga — CGPA 9.49 <br/>
+  🏆 LeetCode Guardian (Peak 2259) · Codeforces Expert (Peak 1772) · IICPC 2026 Regionalist <br/>
   🌍 Based in Mumbai, India · 🤝 Open to collaborating on Systems, LLD & ML projects
 </p>
 
@@ -26,7 +26,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **BSQL**, a custom C++20 SQL storage engine and query execution pipeline, from scratch.
+- 🔭 Currently searching for in depth **ML** projects and trying to focus on getting research work.
 - 🧠 Deep into **DSA, Operating Systems, Databases, and Machine Learning** coursework at VJTI.
 - 💡 I like building things close to the metal — storage engines, buffer pools, and parsers — as well as end-to-end AI-powered applications.
 - ⚡ Solved 2000+ problems across LeetCode, Codeforces, and CodeChef as part of VJTI's Competitive Programming Club.
@@ -87,6 +87,7 @@
 
 - **[BSQL: Custom SQL Journey](https://github.com/Once-1296/BSQL)** — A file-backed C++20 SQL storage engine with a page-based disk manager, LRU buffer pool, Volcano-model execution pipeline, and a hand-written parser.
 - **[TYPortfolio](https://github.com/Once-1296/TYPortfolio)** — My personal developer portfolio, live at [typortfolio-zeta.vercel.app](https://typortfolio-zeta.vercel.app/).
-- **Train Your Foes** — A 2D Unity platformer with a Q-Learning powered boss AI that adapts its strategy in real time.
+- **[Train Your Foes](https://github.com/AvanishSalunke/TRAIN-YOUR-FOES)** — A 2D Unity platformer with a Q-Learning powered boss AI that adapts its strategy in real time.
+- **[System-Health-Metric-Analyser](https://github.com/MohdHedayati/System-Health-Metric-Analyser)** - A full-stack intelligent diagnostics platform designed to analyze, understand, and predict system behavior using machine learning, generative AI, and autonomous agents.
 
 <p align="center"><i>⭐️ From <a href="https://github.com/Once-1296">Once-1296</a></i></p>
