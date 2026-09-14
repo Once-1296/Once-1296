@@ -85,7 +85,7 @@
 
 ### 📌 Featured Projects
 
-- **[BSQL: Custom SQL Journey](https://github.com/Once-1296/BSQL)** — A file-backed C++20 SQL storage engine with a page-based disk manager, LRU buffer pool, Volcano-model execution pipeline, and a hand-written parser.
+- **[BSQL: Custom SQL Journey](https://github.com/Once-1296/Custom_SQL_Journey)** — A file-backed C++20 SQL storage engine with a page-based disk manager, LRU buffer pool, Volcano-model execution pipeline, and a hand-written parser.
 - **[TYPortfolio](https://github.com/Once-1296/TYPortfolio)** — My personal developer portfolio, live at [typortfolio-zeta.vercel.app](https://typortfolio-zeta.vercel.app/).
 - **[Train Your Foes](https://github.com/AvanishSalunke/TRAIN-YOUR-FOES)** — A 2D Unity platformer with a Q-Learning powered boss AI that adapts its strategy in real time.
 - **[System-Health-Metric-Analyser](https://github.com/MohdHedayati/System-Health-Metric-Analyser)** - A full-stack intelligent diagnostics platform designed to analyze, understand, and predict system behavior using machine learning, generative AI, and autonomous agents.
