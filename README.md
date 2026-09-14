@@ -2,7 +2,7 @@
 <h3 align="center">Competitive Programmer | Information Technology Student @ VJTI | Systems & AI Builder</h3>
 
 <p align="center">
-  🎓 3rd Year B.Tech (Computer Engineering) @ VJTI Matunga — CGPA 9.49 <br/>
+  🎓 3rd Year B.Tech (Information Technology) @ VJTI Matunga — CGPA 9.49 <br/>
   🏆 LeetCode Guardian (Peak 2259) · Codeforces Expert (Peak 1772) · IICPC 2026 Regionalist <br/>
   🌍 Based in Mumbai, India · 🤝 Open to collaborating on Systems, LLD & ML projects
 </p>
